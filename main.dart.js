@@ -46113,7 +46113,7 @@ A.avp.prototype={
 $0(){var s=null,r=this.a.d.dy
 if(r.gl(r).c==null){r=$.c_
 r.toString
-r=A.bk(s,A.cH(A.a([A.aA(s,r*4,s),A.aBv(B.b4,A.aH2("assets/image/logo.png"),20),A.aA(s,r,s),B.Oi,B.aBB,B.aDu,A.lb(B.aBQ,new A.avo(),s)],t.p),B.t,B.dv,B.o),B.n,B.k,s,s,s,160,s,s,s,s,s,1/0)}else r=B.LH
+r=A.bk(s,A.cH(A.a([A.aA(s,r*4,s),A.aBv(B.b4,A.aH2("assets/image/favicon.png"),20),A.aA(s,r,s),B.Oi,B.aBB,B.aDu,A.lb(B.aBQ,new A.avo(),s)],t.p),B.t,B.dv,B.o),B.n,B.k,s,s,s,160,s,s,s,s,s,1/0)}else r=B.LH
 return r},
 $S:93}
 A.avo.prototype={
